@@ -1,19 +1,34 @@
 # Site settings
-title: Jekyll-Uno
-description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
-# google_analytics: 'UA-XXXXXX-X'
+title: Emanuele Di Marco
+description: 'Researcher at Istituto Nazionale di Fisica Nucleare, Sezione di Roma 1'
+url: 'http://www.roma1.infn.it'
+baseurl: '/people/dimarcoe'
+google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: 'Emanuele Di Marco'
+  email: emanuele.dimarco@roma1.infn.it
+#  twitter_username: joshgerdes
+#  facebook_username: joshgerdes
+  github_username:  emanueledimarco
+#  linkedin_username:  joshgerdes
+  phone: 00390649914388
+  googlemaps: 'https://www.google.com/maps/search/?api=1&query=piazzale+aldo+moro+2+roma'
+
+collections:
+  research:
+    defaults:
+      layout: post
+#   output: true
+    permalink: /research/:path/
+  teaching:
+    defaults:
+      layout: post
+#   output: true
+    permalink: /teaching/:path/
+
 
 defaults:
   -
@@ -40,5 +55,6 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-plugins: ['jekyll-paginate']
+plugins: ['jekyll-paginate', 'jekyll-email-protect']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
+
