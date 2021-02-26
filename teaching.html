@@ -1,0 +1,9 @@
+---
+layout: post
+title: Teaching
+---
+
+{% for course in site.teaching %}
+  <h2>{{ course.title }} - {{ course.people }}</h2>
+  <p>{{ course.content | markdownify }}</p>
+{% endfor %}
