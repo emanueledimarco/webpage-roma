@@ -2,7 +2,7 @@
 title: Emanuele Di Marco
 description: 'Researcher at Istituto Nazionale di Fisica Nucleare, Sezione di Roma 1'
 url: 'http://www.roma1.infn.it'
-baseurl: '/people/dimarcoe'
+baseurl: '/~dimarcoe'
 google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 # disable_landing_page: true
@@ -10,12 +10,12 @@ google_analytics: 'UA-XXXXXX-X'
 author:
   name: 'Emanuele Di Marco'
   email: emanuele.dimarco@roma1.infn.it
+  github_username:  emanueledimarco
+  telephone: 00390649914388
+  googlemaps: 'https://www.google.com/maps/search/?api=1&query=piazzale+aldo+moro+2+roma'
 #  twitter_username: joshgerdes
 #  facebook_username: joshgerdes
-  github_username:  emanueledimarco
 #  linkedin_username:  joshgerdes
-  phone: 00390649914388
-  googlemaps: 'https://www.google.com/maps/search/?api=1&query=piazzale+aldo+moro+2+roma'
 
 collections:
   research:
@@ -55,6 +55,6 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-plugins: ['jekyll-paginate', 'jekyll-email-protect']
+plugins: ['jekyll-paginate', 'jekyll-email-protect', 'jekyll-scholar']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
 

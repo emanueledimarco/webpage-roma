@@ -14,4 +14,6 @@ Argomenti trattati:
   * derivazione geometrica delle trasformazioni di Lorentz
   * composizione delle velocita' relativistiche
 
-La scannerizzazione degli appunti e' qui.
+La scannerizzazione degli appunti e' [qui](https://cernbox.cern.ch/index.php/s/GxCdQOGGOqN09rp/download).
+
+Bibliografia (interessante): Articolo originale di Michelson e Morley [qui](http://personal.psu.edu/rq9/HOW/Michelson_Morley_Experiment.pdf)
