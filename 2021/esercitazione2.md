@@ -17,7 +17,7 @@ number: 2b
 
 La scannerizzazione degli appunti e\` [qui](https://cernbox.cern.ch/index.php/s/HAzQgaUKB7Glhbc/download).
 
-Gli esercizi per casa per fissare le idee su questi argomenti (per ora senza soluzioni) sono [qui](https://cernbox.cern.ch/index.php/s/sm2722XFtWBgilE/download). Le soluzioni saranno linkate a questa pagina prima della prossima esercitazione.
+Gli esercizi per casa per fissare le idee su questi argomenti sono [qui](https://cernbox.cern.ch/index.php/s/sm2722XFtWBgilE/download). Le soluzioni sono [qui](https://cernbox.cern.ch/index.php/s/6GFZEpH7BiOcdOp/download).
 
 La prossima lezione e\` prevista per venerdi\` 5 marzo. La prossima esercitazione mercoledi\` 10 marzo.
 
