@@ -6,23 +6,25 @@ name: esercitazione3
 number: 3b
 ---
 
-10/03/2021, Aula 3 e Google Meet (2h)
+19/03/2021, Zoom only - Lazio in zona rossa (2h)
 
-`Argomenti trattati`:
-  * il quadrivettore Energia-Impulso
-  * energia cinetica ed energia totale di un sistema
-  * esercizi sul decadimento di una particella in due corpi
-  * sistema di riferimento del centro di massa e del laboratorio
-  * massa invariante
-  * produzione di una particella in collisioni su targhetta o nei collider
+Argomenti trattati:
+  * scattering di un elettrone sul nucleo e analogia diffusione Compton
+  * decadimento in due corpi nel centro di massa
+  * trasformazione degli angoli tra sistemi di riferimento
+  * decadimento in 2 corpi in volo
+  * esempio Higgs in 2 fotoni e pi0 in due fotoni
+    * distribuzioni in energia e angolari nel laboratorio
 
-La scannerizzazione degli appunti e\` [qui](https://cernbox.cern.ch/index.php/s/RcInryRHZdZmR1a/download).
+La scannerizzazione degli appunti e\` [qui](https://cernbox.cern.ch/index.php/s/7HK7MItB8vZB8Rr/download).
+La scannerizzazione degli appunti riguardanti la trasformazione degli angoli e\` [qui](https://cernbox.cern.ch/index.php/s/H60fSiEbpa5CyTX/download).
 
 Gli esercizi per casa per fissare le idee su questi argomenti (per ora
-senza soluzioni) sono [qui](https://cernbox.cern.ch/index.php/s/XlnWMMaUCm3a0Ea/download). Le
-soluzioni sono [qui](https://cernbox.cern.ch/index.php/s/rqRjUpcHfwwkfMy/download).
+senza soluzioni) sono [qui](https://cernbox.cern.ch/index.php/s/Py1ATFTIlT9Bfa9/download).
+Le soluzioni si possono trovare [qui](https://cernbox.cern.ch/index.php/s/wB4xRrzVsrorS0J/download).
 
-La prossima lezione e\` prevista per venerdi\` 5 marzo. La prossima esercitazione venerdi\` 19 marzo.
+La prossima lezione (speciale sullo scattering indipendente dal tempo) sar\`a gioved\`i 25 marzo, 12-14h.
+
 
 
 

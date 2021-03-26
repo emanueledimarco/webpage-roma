@@ -6,14 +6,20 @@ name: esercitazione1
 number: 1b
 ---
 
-25/02/2021, Zoom (2h)
+03/03/2021, Aula 3 e Google Meet (2h)
 
-Argomenti trattati:
-  * esperimento di Michelson - Morley;
-  * concetto di simultaneita'
-  * derivazione geometrica delle trasformazioni di Lorentz
-  * composizione delle velocita' relativistiche
+`Argomenti trattati`:
+  * dilatazione dei tempi
+  * contrazione delle lunghezze
+  * esercizio sulla vita media del muone nell'atmosfera
+  * cambi di sistemi di riferimento (esempio del treno in galleria)
+  * esercizio di dilatazione dei tempi per oggetti in moto lentamente
 
-La scannerizzazione degli appunti e' [qui](https://cernbox.cern.ch/index.php/s/GxCdQOGGOqN09rp/download).
+La scannerizzazione degli appunti e\` [qui](https://cernbox.cern.ch/index.php/s/HAzQgaUKB7Glhbc/download).
 
-Bibliografia (interessante): Articolo originale di Michelson e Morley [qui](http://personal.psu.edu/rq9/HOW/Michelson_Morley_Experiment.pdf)
+Gli esercizi per casa per fissare le idee su questi argomenti sono [qui](https://cernbox.cern.ch/index.php/s/sm2722XFtWBgilE/download). Le soluzioni sono [qui](https://cernbox.cern.ch/index.php/s/6GFZEpH7BiOcdOp/download).
+
+La prossima lezione e\` prevista per venerdi\` 5 marzo. La prossima esercitazione mercoledi\` 10 marzo.
+
+
+
