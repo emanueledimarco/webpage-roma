@@ -16,9 +16,9 @@ Argomenti trattati:
 
 La scannerizzazione degli appunti e\` [qui](https://cernbox.cern.ch/index.php/s/GFI7AILxXuCywny/download)
 
-Gli esercizi per casa su questi argomenti (includendo anche un esercizio sull'applicazione della radiazione Cherenkov, fatto a lezione), per ora senza soluzioni, sono [qui](https://cernbox.cern.ch/index.php/s/2QvRmNFWliiaoLp/download).
+Gli esercizi per casa su questi argomenti (includendo anche un esercizio sull'applicazione della radiazione Cherenkov, fatto a lezione), per ora senza soluzioni, sono [qui](https://cernbox.cern.ch/index.php/s/2QvRmNFWliiaoLp/download). Le soluzioni sono [qui](https://cernbox.cern.ch/index.php/s/zsG1BMjgavK63Ay/download).
 
-Le soluzioni verranno caricate sul sito qualche giorno prima della prossima esercitazione, prevista per venerdi\` 16 aprile, 12-14h.
+La prossima esercitazione e\` prevista per venerdi\` 16 aprile, 12-14h.
 
 
 
