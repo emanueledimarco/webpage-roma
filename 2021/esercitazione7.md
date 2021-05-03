@@ -19,7 +19,7 @@ Argomenti trattati:
 La scannerizzazione degli appunti e\` [qui](https://cernbox.cern.ch/index.php/s/LEpG41E3sDx8CY1/download).
 L'esercizio sul modello a gas di Fermi l'abbiamo solo impostato a lezione. Quello della relazione tra modello a gas di Fermi e modello a goccia e\` utile per capire il termine di asimmetria della formula di Weiszacker, ma e\` piu\` intricato degli altri. 
 
-Seguiranno presto altri esercizi per casa su questi argomenti.
+Esercizi per casa su questi argomenti (per ora senza soluzioni) sono caricati [qui](https://cernbox.cern.ch/index.php/s/6xzpCbZJjfa4kTX/download). Le soluzioni saranno caricate su questa pagina poco prima della prossima esercitazione, prevista per venerdi\` 7 Maggio, 12h-14h.
 
 
 
