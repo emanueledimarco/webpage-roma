@@ -19,7 +19,7 @@ La scannerizzazione degli appunti e\` [qui](https://cernbox.cern.ch/index.php/s/
 
 Imposteremo i punti principali dell'esercizio per casa sulla legge di Sargent e vite medie in presenza di decadimento beta all'inizio della prossima esercitazione, che e\` prevista per giovedi\` 13/05, 12h-14h.
 
-Degli esercizi per casa su questi argomenti si possono trovare [qui](https://cernbox.cern.ch/index.php/s/py85BIFr88HiyI6/download). Le soluzioni verranno caricate prima della prossima esercitazione.
+Degli esercizi per casa su questi argomenti si possono trovare [qui](https://cernbox.cern.ch/index.php/s/py85BIFr88HiyI6/download). Le soluzioni si possono trovare [qui](https://cernbox.cern.ch/index.php/s/6NVok68rgG4Nn9Q/download).
 
 
 
