@@ -30,8 +30,8 @@ seconda meta\` del corso, e\` prevista per l'11 Giugno 2021. I possibili argomen
   * reazioni e decadimenti permessi e proibiti da leggi di conservazione
   * relazione di sezioni d'urto in canali di isospin, utilizzando la composizione di autostati di isospin
   
-
-
+Esercizi su argomenti della seconda meta\` del corso sono [qui](https://cernbox.cern.ch/index.php/s/GMJ4DJuaFORjFBU/download) senza soluzioni.
+Le relative soluzioni possono essere trovate [qui](https://cernbox.cern.ch/index.php/s/v0y7i1mhQEAiRlN/download).
 
 
 
