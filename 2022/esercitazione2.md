@@ -16,7 +16,11 @@ Il codice degli script per le piccole simulazioni sono in github in:
   * [Rutherfod](https://github.com/SapienzaFNS1/simulations/blob/main/rutherford.py)
   * [Luminosita`](https://github.com/SapienzaFNS1/simulations/blob/main/collider_luminosity.py)
 
-Gli appunti con l'applicazione numerica della lezione di oggi si trovano [qui](https://cernbox.cern.ch/index.php/s/mtEZaUOV4evgg5r/download)
+Gli appunti con l'applicazione numerica della lezione di oggi si trovano [qui](https://cernbox.cern.ch/index.php/s/mtEZaUOV4evgg5r/download).
+
+Degli esercizi per casa per fissare le idee sugli argomenti svolti fin qui (sezione d'urto, flusso, cinematica relativistica) sono [qui](https://cernbox.cern.ch/index.php/s/CVVPSVzjYsHQM22/download).
+
+Le soluzioni verranno caricate qui nei prossimi giorni.
 
 
 
