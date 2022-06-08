@@ -18,4 +18,7 @@ number: 6
    * Gli appunti sulle oscillazioni dei mesoni B0/B0bar si trovano [qui](https://cernbox.cern.ch/index.php/s/lINV822nVsx8TYK/download)
    * Il notebook di python per ripetere o modificare la simulazione delle oscillazioni di B0d e B0s e` [qui](https://colab.research.google.com/drive/16pySXNETusZMnNG-jcDfqJATGSA1VV-n?usp=sharing)
    * Un articolo esaustivo e comprensibile che spiega gli aspetti sperimentali delle oscillazioni del sistema B0/B0bar (nel contesto della violazione della simmetria CP), per l'esperimento BaBar si trova [qui](https://arxiv.org/pdf/hep-ex/0201020)
+
+`Esercizi per casa`:
+   * Una piccola raccolta di esercizi sugli argomenti della seconda meta\` del corso si puo\` trovare [qui](https://cernbox.cern.ch/index.php/s/IkI2bTj2ym1YSaM/download). Le soluzioni saranno caricate in questa pagina all'inizio della prossima settimana (13/06/2022).
    
