@@ -6,7 +6,7 @@ name: CYGNO thesis
 number: 1
 ---
 
-`Possibili tesi nell'esperimento CYGNO`:
+## Possibili tesi nell'esperimento CYGNO:
    * Ricostruzione di immagini con tecniche di clustering (Machine Learning non supervisionato)
    * Analisi della risposta di energia del prototipo LIME alle sorgenti radioattive
    * Calibrazione della TPC con sorgenti radioattive
@@ -14,3 +14,6 @@ number: 1
 
 
 Per maggiori informazioni contattatemi a [questo indirizzo](mailto:emanuele.dimarco@roma1.infn.it). Il sito dell'esperimento CYGNO con maggiori dettagli e` [qui](https://web.infn.it/cygnus/).
+
+## Tesi passate o in corso:
+   * D. Marin, *Performance del rivelatore CYGNO con raggi cosmici* (laurea magistrale in co-tutela con D. Pinci, in corso, 2023)
