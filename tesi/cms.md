@@ -20,6 +20,7 @@ number: 1
 Per maggiori informazioni contattatemi a [questo indirizzo](mailto:emanuele.dimarco@roma1.infn.it). Il sito del gruppo CMS Roma con maggiori dettagli e` [qui](https://www.roma1.infn.it/exp/cms/index.html).
 
 ## Tesi passate o in corso:
+   * A. Cipriani, *Ruolo della calorimetria elettromagnetica nella ricerca di risonanze* (laurea triennale, in corso, 2023)
    * R. Ursini, *Studio della produzione associata WH e ZH utilizzando il decadimento in due fotoni con l'esperimento CMS* (laurea magistrale, in corso, 2023)
    * A. Artino Innaria, *Misura della massa del bosone di Higgs usando stati finali completamente leptonici* (laurea triennale, in corso, 2023)
    * L. Loparco, *Determinazione della massa e dello spin del bosone di Higgs con l'esperimento CMS* (laurea triennale, 2022)
