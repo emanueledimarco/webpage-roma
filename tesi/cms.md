@@ -8,9 +8,12 @@ number: 1
 
 ## Possibili tesi nell'esperimento CMS:
    * Misura di accoppiamenti del bosone di Higgs nei canali:
-     * Vector Boson Fusion, e decadimento del bosone di Higgs in 2 fotoni
+     * Vector Boson Fusion, e produzione associata WH, ZH, ttH e decadimento del bosone di Higgs in 2 fotoni
      * Decadimento del bosone di Higgs in ZZ
      * Decadimento del bosone di Higgs in WW
+   * Ricerca dell'autoaccoppiamento del bosone di Higgs, attraverso i canali di-Higgs
+     * HH, con un H->2 fotoni, un H->WW,o ZZ, o tau tau
+     * misura dell'autoaccoppiamento da produzione singola di Higgs, con H->2 fotoni
    * Applicazione di Machine Learning:
      * regressione multivariata per energia calorimetrica
      * discriminazione di categorie
