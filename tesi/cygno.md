@@ -21,4 +21,5 @@ Piccola documentazione didattica:
    * Articolo con identificazione dei rinculi nucleari, con una descrizione del prototipo LEMON [qui](https://arxiv.org/abs/2007.12508)
 
 ## Tesi passate o in corso:
-   * D. Marin, *Performance del rivelatore CYGNO con raggi cosmici* (laurea magistrale in co-tutela con D. Pinci, in corso, 2023)
+   * **D. Marin**, *Performance del rivelatore CYGNO con raggi cosmici* (laurea magistrale in co-tutela con D. Pinci, 2023)
+
