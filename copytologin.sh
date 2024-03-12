@@ -3,5 +3,5 @@ bundle install
 export LC_ALL=en_US.UTF-8
 export LANG=en_US.UTF-8
 #bundle exec jekyll serve --watch
-bundle exec jekyll build
+bundle exec jekyll build --incremental
 scp -r _site/* dimarcoe@login.roma1.infn.it:~/www
