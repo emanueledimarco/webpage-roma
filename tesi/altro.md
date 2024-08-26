@@ -18,5 +18,5 @@ g { color: Green }
    * Oscillazioni di neutrini
 
 ## Tesi passate o in corso:
-   * **Federico Bertinetti**, *Determinazione del numero di famiglie di neutrini a LEP* (<g>laurea triennale</g>, in corso, 2024)
+   * **Federico Bertinetti**, *Determinazione del numero di famiglie di neutrini a LEP* (<g>laurea triennale</g>, 2024)
    * **Sabrina Rubino**, *Oscillazioni di neutrino e esperimento SuperKamiokande* (<g>laurea triennale</g>, in corso, 2024)
